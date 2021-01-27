@@ -1,0 +1,14 @@
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.cache
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.exe.manifest
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.application
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.exe.manifest
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.application
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.SerialPort.resources
+C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csprojAssemblyReference.cache
