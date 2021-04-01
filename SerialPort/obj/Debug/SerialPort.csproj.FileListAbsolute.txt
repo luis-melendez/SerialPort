@@ -12,3 +12,17 @@ C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.exe.manife
 C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.application
 C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.SerialPort.resources
 C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csprojAssemblyReference.cache
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Debug\SerialPort.exe.manifest
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Debug\SerialPort.application
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.csprojAssemblyReference.cache
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.SerialPort.resources
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.cache
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.exe.manifest
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.application
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Debug\SerialPort.pdb

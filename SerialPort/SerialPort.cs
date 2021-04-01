@@ -48,8 +48,6 @@ namespace SerialPort
                 PuertoscomboBox.Items.Clear();
                 Inicializar();
             }
-
-
         }
 
         private void Conectarbutton_Click(object sender, EventArgs e)
@@ -182,8 +180,11 @@ namespace SerialPort
             if (this.Enabled)
             {
                 Thread.Sleep(500);
-                string data = serialPort1.ReadExisting();
-                this.BeginInvoke(new DelegateAcceso(hay_DatosParaRecibir), new object[] { data });
+                if (serialPort1.IsOpen)
+                {
+                    string data = serialPort1.ReadExisting();
+                    this.BeginInvoke(new DelegateAcceso(hay_DatosParaRecibir), new object[] { data });
+                }
             }
         }
 

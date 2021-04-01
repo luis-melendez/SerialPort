@@ -11,3 +11,17 @@ C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\bin\Release\SerialPort.applicat
 C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Release\SerialPort.exe.manifest
 C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Release\SerialPort.application
 C:\B3\LMELENDEZ\SerialPort\SerialPort\SerialPort\obj\Release\SerialPort.SerialPort.resources
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Release\SerialPort.exe.config
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Release\SerialPort.exe.manifest
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Release\SerialPort.application
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Release\SerialPort.exe
+C:\Dev\Proyectos\SerialPort\SerialPort\bin\Release\SerialPort.pdb
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.csprojAssemblyReference.cache
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.SerialPort.resources
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.Properties.Resources.resources
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.csproj.GenerateResource.cache
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.csproj.CoreCompileInputs.cache
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.exe.manifest
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.application
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.exe
+C:\Dev\Proyectos\SerialPort\SerialPort\obj\Release\SerialPort.pdb

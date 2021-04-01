@@ -9,14 +9,14 @@
     <framework targetVersion="4.6" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SerialPort.exe.manifest" size="3468">
+    <dependentAssembly dependencyType="install" codebase="SerialPort.exe.manifest" size="3540">
       <assemblyIdentity name="SerialPort.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>oAKNxB6jGQ023ZLgM/gy6NJQM+mxxO2KG6ztQv/3v3I=</dsig:DigestValue>
+        <dsig:DigestValue>xN57ktihi03QXETbxKWfzXGzwnW0JAV11rI7SbMk6NU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
